@@ -12,6 +12,9 @@ zhihu:https://www.zhihu.com/people/mirage-75-68/search?keyword=PLL&pathBefore=%2
 Divider:https://blog.csdn.net/m0_62489442/article/details/146024361
 https://www.cnblogs.com/loudrsblog/p/17389318.html
 
+偏置网络和自启动电路：https://zhuanlan.zhihu.com/p/14756582382
+
+
 
 
 
