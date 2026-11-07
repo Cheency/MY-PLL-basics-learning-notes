@@ -14,6 +14,12 @@ https://www.cnblogs.com/loudrsblog/p/17389318.html
 
 偏置网络和自启动电路：https://zhuanlan.zhihu.com/p/14756582382
 
+gmid设计方法：
+设计方法介绍：https://zhuanlan.zhihu.com/p/435397746
+扫描曲线获得：https://zhuanlan.zhihu.com/p/1899593665992696280
+
+
+
 
 
 
