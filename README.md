@@ -18,6 +18,21 @@ gmid设计方法：
 设计方法介绍：https://zhuanlan.zhihu.com/p/435397746
 扫描曲线获得：https://zhuanlan.zhihu.com/p/1899593665992696280
 
+Matlab算传输函数：https://zhuanlan.zhihu.com/p/558561329
+
+三级运放MNMC补偿：
+https://zhuanlan.zhihu.com/p/643915074
+https://blog.csdn.net/u010486560/article/details/105421902
+https://www.analog-life.com/2023/10/introduction-to-the-gm-feedforward-compensation-method-for-two-stage-op-amps/
+https://chatgpt.com/share/69f1edec-076c-83e8-bd30-e80a6c25c4d9
+
+
+gemini:https://gemini.google.com/app
+
+
+
+
+
 
 
 
